@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Volpan
+namespace Volpan;
 
 
 class ClassTestOne
